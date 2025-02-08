@@ -30,4 +30,5 @@ typings/
 .yarn-integrity
 .env
 .next
-dist
+dist/
+node_modules/
